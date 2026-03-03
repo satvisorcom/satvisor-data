@@ -128,8 +128,8 @@ Updated weekly.
 
 Raw URLs follow the pattern:
 ```
-https://raw.githubusercontent.com/satvisorcom/satvisor-data/main/celestrak/tle/{slug}.tle
-https://raw.githubusercontent.com/satvisorcom/satvisor-data/main/celestrak/json/{slug}.json
+https://raw.githubusercontent.com/satvisorcom/satvisor-data/master/celestrak/tle/{slug}.tle
+https://raw.githubusercontent.com/satvisorcom/satvisor-data/master/celestrak/json/{slug}.json
 ```
 
 Freshness metadata: [`manifest.json`](manifest.json)

@@ -24,5 +24,5 @@ jobs:
           git checkout --orphan fresh
           git add -A
           git commit -m "data snapshot $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git branch -M fresh main
-          git push --force origin main
+          git branch -M fresh master
+          git push --force origin master
