@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T16:38:30.499Z",
+  "generatedAt": "2026-03-04T18:47:42.118Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-03-04T16:38:24.051Z",
@@ -299,12 +299,11 @@
       ]
     },
     "qianfan": {
-      "updatedAt": "2026-03-04T16:38:05.753Z",
+      "updatedAt": "2026-03-04T18:44:41.447Z",
       "count": 108,
       "tier": "hot",
       "formats": [
-        "tle",
-        "json"
+        "tle"
       ]
     },
     "hulianwang": {
@@ -490,11 +489,10 @@
       ]
     },
     "decaying": {
-      "updatedAt": "2026-03-04T16:38:30.499Z",
+      "updatedAt": "2026-03-04T18:47:42.118Z",
       "count": 154,
       "tier": "hot",
       "formats": [
-        "tle",
         "json"
       ]
     }
