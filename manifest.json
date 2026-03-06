@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-03-06T20:27:20.728Z",
+  "generatedAt": "2026-03-06T22:24:00.229Z",
   "groups": {
     "stations": {
-      "updatedAt": "2026-03-06T20:27:16.246Z",
+      "updatedAt": "2026-03-06T22:23:55.866Z",
       "count": 33,
       "tier": "hot",
       "formats": [
@@ -281,7 +281,7 @@
       ]
     },
     "starlink": {
-      "updatedAt": "2026-03-06T20:26:45.913Z",
+      "updatedAt": "2026-03-06T22:23:29.220Z",
       "count": 9741,
       "tier": "hot",
       "formats": [
@@ -290,7 +290,7 @@
       ]
     },
     "oneweb": {
-      "updatedAt": "2026-03-06T20:26:51.001Z",
+      "updatedAt": "2026-03-06T22:23:34.135Z",
       "count": 651,
       "tier": "hot",
       "formats": [
@@ -299,7 +299,7 @@
       ]
     },
     "qianfan": {
-      "updatedAt": "2026-03-06T20:26:55.224Z",
+      "updatedAt": "2026-03-06T22:23:38.394Z",
       "count": 108,
       "tier": "hot",
       "formats": [
@@ -308,7 +308,7 @@
       ]
     },
     "hulianwang": {
-      "updatedAt": "2026-03-06T20:27:02.340Z",
+      "updatedAt": "2026-03-06T22:23:42.989Z",
       "count": 145,
       "tier": "hot",
       "formats": [
@@ -317,7 +317,7 @@
       ]
     },
     "kuiper": {
-      "updatedAt": "2026-03-06T20:27:07.272Z",
+      "updatedAt": "2026-03-06T22:23:47.373Z",
       "count": 210,
       "tier": "hot",
       "formats": [
@@ -326,7 +326,7 @@
       ]
     },
     "last-30-days": {
-      "updatedAt": "2026-03-06T20:27:11.984Z",
+      "updatedAt": "2026-03-06T22:23:51.646Z",
       "count": 333,
       "tier": "hot",
       "formats": [
@@ -490,7 +490,7 @@
       ]
     },
     "decaying": {
-      "updatedAt": "2026-03-06T20:27:20.728Z",
+      "updatedAt": "2026-03-06T22:24:00.229Z",
       "count": 199,
       "tier": "hot",
       "formats": [
