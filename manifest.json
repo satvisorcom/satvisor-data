@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T06:41:20.051Z",
+  "generatedAt": "2026-03-06T07:11:19.356Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-03-06T06:41:15.681Z",
@@ -335,7 +335,7 @@
       ]
     },
     "visual": {
-      "updatedAt": "2026-03-06T03:10:53.936Z",
+      "updatedAt": "2026-03-06T07:10:15.887Z",
       "count": 148,
       "tier": "warm",
       "formats": [
@@ -344,7 +344,7 @@
       ]
     },
     "active": {
-      "updatedAt": "2026-03-06T03:11:00.368Z",
+      "updatedAt": "2026-03-06T07:10:23.263Z",
       "count": 14610,
       "tier": "warm",
       "formats": [
@@ -353,7 +353,7 @@
       ]
     },
     "gps-ops": {
-      "updatedAt": "2026-03-06T03:11:04.537Z",
+      "updatedAt": "2026-03-06T07:10:27.533Z",
       "count": 32,
       "tier": "warm",
       "formats": [
@@ -362,7 +362,7 @@
       ]
     },
     "glo-ops": {
-      "updatedAt": "2026-03-06T03:11:08.711Z",
+      "updatedAt": "2026-03-06T07:10:31.774Z",
       "count": 28,
       "tier": "warm",
       "formats": [
@@ -371,7 +371,7 @@
       ]
     },
     "galileo": {
-      "updatedAt": "2026-03-06T03:11:12.877Z",
+      "updatedAt": "2026-03-06T07:10:36.014Z",
       "count": 33,
       "tier": "warm",
       "formats": [
@@ -380,7 +380,7 @@
       ]
     },
     "beidou": {
-      "updatedAt": "2026-03-06T03:11:17.042Z",
+      "updatedAt": "2026-03-06T07:10:40.354Z",
       "count": 53,
       "tier": "warm",
       "formats": [
@@ -389,7 +389,7 @@
       ]
     },
     "gnss": {
-      "updatedAt": "2026-03-06T03:11:21.216Z",
+      "updatedAt": "2026-03-06T07:10:44.623Z",
       "count": 173,
       "tier": "warm",
       "formats": [
@@ -398,7 +398,7 @@
       ]
     },
     "weather": {
-      "updatedAt": "2026-03-06T03:11:25.408Z",
+      "updatedAt": "2026-03-06T07:10:48.872Z",
       "count": 70,
       "tier": "warm",
       "formats": [
@@ -407,7 +407,7 @@
       ]
     },
     "noaa": {
-      "updatedAt": "2026-03-06T03:11:29.583Z",
+      "updatedAt": "2026-03-06T07:10:53.131Z",
       "count": 23,
       "tier": "warm",
       "formats": [
@@ -416,7 +416,7 @@
       ]
     },
     "goes": {
-      "updatedAt": "2026-03-06T03:11:33.751Z",
+      "updatedAt": "2026-03-06T07:10:57.367Z",
       "count": 19,
       "tier": "warm",
       "formats": [
@@ -425,7 +425,7 @@
       ]
     },
     "iridium-NEXT": {
-      "updatedAt": "2026-03-06T03:11:37.917Z",
+      "updatedAt": "2026-03-06T07:11:01.623Z",
       "count": 80,
       "tier": "warm",
       "formats": [
@@ -434,7 +434,7 @@
       ]
     },
     "planet": {
-      "updatedAt": "2026-03-06T03:11:42.109Z",
+      "updatedAt": "2026-03-06T07:11:06.380Z",
       "count": 72,
       "tier": "warm",
       "formats": [
@@ -443,7 +443,7 @@
       ]
     },
     "spire": {
-      "updatedAt": "2026-03-06T03:11:46.293Z",
+      "updatedAt": "2026-03-06T07:11:10.845Z",
       "count": 51,
       "tier": "warm",
       "formats": [
@@ -452,7 +452,7 @@
       ]
     },
     "globalstar": {
-      "updatedAt": "2026-03-06T03:11:50.467Z",
+      "updatedAt": "2026-03-06T07:11:15.090Z",
       "count": 85,
       "tier": "warm",
       "formats": [
@@ -461,7 +461,7 @@
       ]
     },
     "orbcomm": {
-      "updatedAt": "2026-03-06T03:11:54.634Z",
+      "updatedAt": "2026-03-06T07:11:19.355Z",
       "count": 60,
       "tier": "warm",
       "formats": [
