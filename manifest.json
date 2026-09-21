@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T09:31:20.923Z",
+  "generatedAt": "2026-09-21T09:35:39.636Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-09-21T05:09:08.466Z",
@@ -495,12 +495,12 @@
   },
   "catalog": {
     "satnogs": {
-      "updatedAt": "2026-09-14T09:33:36.208Z",
-      "count": 2774
+      "updatedAt": "2026-09-21T09:35:38.999Z",
+      "count": 2778
     },
     "stdmag": {
-      "updatedAt": "2026-09-14T09:33:36.895Z",
-      "count": 35123
+      "updatedAt": "2026-09-21T09:35:39.634Z",
+      "count": 35178
     }
   }
 }
