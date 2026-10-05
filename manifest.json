@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:10:25.190Z",
+  "generatedAt": "2026-10-05T15:10:36.125Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-10-05T05:56:16.053Z",
@@ -74,12 +74,11 @@
       ]
     },
     "satnogs": {
-      "updatedAt": "2026-10-05T05:57:23.095Z",
+      "updatedAt": "2026-10-05T15:08:33.557Z",
       "count": 629,
       "tier": "warm",
       "formats": [
-        "tle",
-        "json"
+        "tle"
       ]
     },
     "cubesat": {
@@ -254,7 +253,7 @@
       ]
     },
     "fengyun-1c-debris": {
-      "updatedAt": "2026-10-05T05:57:27.828Z",
+      "updatedAt": "2026-10-05T15:08:57.931Z",
       "count": 1982,
       "tier": "warm",
       "formats": [
@@ -323,7 +322,7 @@
       ]
     },
     "last-30-days": {
-      "updatedAt": "2026-10-05T05:56:11.743Z",
+      "updatedAt": "2026-10-05T15:01:05.758Z",
       "count": 177,
       "tier": "warm",
       "formats": [
@@ -447,20 +446,18 @@
       ]
     },
     "globalstar": {
-      "updatedAt": "2026-10-05T05:57:09.172Z",
+      "updatedAt": "2026-10-05T15:08:13.288Z",
       "count": 28,
       "tier": "warm",
       "formats": [
-        "tle",
-        "json"
+        "tle"
       ]
     },
     "orbcomm": {
-      "updatedAt": "2026-10-05T05:57:14.049Z",
+      "updatedAt": "2026-10-05T15:08:21.701Z",
       "count": 14,
       "tier": "warm",
       "formats": [
-        "tle",
         "json"
       ]
     }
