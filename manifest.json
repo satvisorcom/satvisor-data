@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T03:13:36.632Z",
+  "generatedAt": "2026-10-14T05:10:32.150Z",
   "groups": {
     "stations": {
-      "updatedAt": "2026-10-13T14:24:48.773Z",
+      "updatedAt": "2026-10-14T05:05:01.229Z",
       "count": 18,
       "tier": "warm",
       "formats": [
@@ -324,8 +324,8 @@
       ]
     },
     "last-30-days": {
-      "updatedAt": "2026-10-13T14:24:44.559Z",
-      "count": 225,
+      "updatedAt": "2026-10-14T05:04:56.971Z",
+      "count": 222,
       "tier": "warm",
       "formats": [
         "json"
@@ -349,7 +349,7 @@
       ]
     },
     "gps-ops": {
-      "updatedAt": "2026-10-13T14:24:52.971Z",
+      "updatedAt": "2026-10-14T05:05:05.498Z",
       "count": 32,
       "tier": "warm",
       "formats": [
@@ -358,7 +358,7 @@
       ]
     },
     "glo-ops": {
-      "updatedAt": "2026-10-13T14:24:57.199Z",
+      "updatedAt": "2026-10-14T05:05:09.767Z",
       "count": 27,
       "tier": "warm",
       "formats": [
@@ -367,7 +367,7 @@
       ]
     },
     "galileo": {
-      "updatedAt": "2026-10-13T22:57:59.038Z",
+      "updatedAt": "2026-10-14T05:05:14.332Z",
       "count": 32,
       "tier": "warm",
       "formats": [
@@ -376,7 +376,7 @@
       ]
     },
     "beidou": {
-      "updatedAt": "2026-10-13T22:58:03.986Z",
+      "updatedAt": "2026-10-14T05:05:19.209Z",
       "count": 53,
       "tier": "warm",
       "formats": [
@@ -385,7 +385,7 @@
       ]
     },
     "gnss": {
-      "updatedAt": "2026-10-13T22:58:08.247Z",
+      "updatedAt": "2026-10-14T05:05:33.924Z",
       "count": 169,
       "tier": "warm",
       "formats": [
@@ -394,7 +394,7 @@
       ]
     },
     "weather": {
-      "updatedAt": "2026-10-13T22:58:12.487Z",
+      "updatedAt": "2026-10-14T05:06:13.255Z",
       "count": 72,
       "tier": "warm",
       "formats": [
@@ -403,7 +403,7 @@
       ]
     },
     "noaa": {
-      "updatedAt": "2026-10-13T22:58:16.625Z",
+      "updatedAt": "2026-10-14T05:06:50.801Z",
       "count": 0,
       "tier": "warm",
       "formats": [
@@ -412,12 +412,11 @@
       ]
     },
     "goes": {
-      "updatedAt": "2026-10-13T22:58:20.853Z",
+      "updatedAt": "2026-10-14T05:07:49.463Z",
       "count": 6,
       "tier": "warm",
       "formats": [
-        "tle",
-        "json"
+        "tle"
       ]
     },
     "iridium-NEXT": {
