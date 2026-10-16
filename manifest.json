@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:51:09.261Z",
+  "generatedAt": "2026-10-16T02:45:26.254Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-10-15T21:32:33.563Z",
@@ -182,7 +182,7 @@
       ]
     },
     "argos": {
-      "updatedAt": "2026-10-15T16:08:42.547Z",
+      "updatedAt": "2026-10-16T02:44:47.788Z",
       "count": 30,
       "tier": "cold",
       "formats": [
@@ -191,7 +191,7 @@
       ]
     },
     "x-comm": {
-      "updatedAt": "2026-10-15T16:08:46.690Z",
+      "updatedAt": "2026-10-16T02:44:52.075Z",
       "count": 20,
       "tier": "cold",
       "formats": [
@@ -200,7 +200,7 @@
       ]
     },
     "other-comm": {
-      "updatedAt": "2026-10-15T16:08:50.877Z",
+      "updatedAt": "2026-10-16T02:44:56.281Z",
       "count": 28,
       "tier": "cold",
       "formats": [
@@ -209,7 +209,7 @@
       ]
     },
     "sbas": {
-      "updatedAt": "2026-10-15T16:08:55.213Z",
+      "updatedAt": "2026-10-16T02:45:00.890Z",
       "count": 21,
       "tier": "cold",
       "formats": [
@@ -218,7 +218,7 @@
       ]
     },
     "nnss": {
-      "updatedAt": "2026-10-15T16:08:59.548Z",
+      "updatedAt": "2026-10-16T02:45:05.147Z",
       "count": 18,
       "tier": "cold",
       "formats": [
@@ -227,7 +227,7 @@
       ]
     },
     "musson": {
-      "updatedAt": "2026-10-15T16:09:05.500Z",
+      "updatedAt": "2026-10-16T02:45:09.372Z",
       "count": 3,
       "tier": "cold",
       "formats": [
@@ -236,7 +236,7 @@
       ]
     },
     "other": {
-      "updatedAt": "2026-10-15T16:09:09.607Z",
+      "updatedAt": "2026-10-16T02:45:13.499Z",
       "count": 0,
       "tier": "cold",
       "formats": [
@@ -245,7 +245,7 @@
       ]
     },
     "cosmos-1408-debris": {
-      "updatedAt": "2026-10-15T16:09:14.012Z",
+      "updatedAt": "2026-10-16T02:45:17.709Z",
       "count": 3,
       "tier": "cold",
       "formats": [
@@ -263,7 +263,7 @@
       ]
     },
     "iridium-33-debris": {
-      "updatedAt": "2026-10-15T16:09:19.332Z",
+      "updatedAt": "2026-10-16T02:45:21.944Z",
       "count": 109,
       "tier": "cold",
       "formats": [
@@ -272,7 +272,7 @@
       ]
     },
     "cosmos-2251-debris": {
-      "updatedAt": "2026-10-15T16:09:23.941Z",
+      "updatedAt": "2026-10-16T02:45:26.254Z",
       "count": 588,
       "tier": "cold",
       "formats": [
