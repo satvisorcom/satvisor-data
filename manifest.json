@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:02:09.858Z",
+  "generatedAt": "2026-10-18T17:04:49.561Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-10-18T16:00:50.803Z",
@@ -289,7 +289,7 @@
       ]
     },
     "oneweb": {
-      "updatedAt": "2026-09-01T09:07:03.696Z",
+      "updatedAt": "2026-10-18T17:03:03.752Z",
       "count": 651,
       "tier": "hot",
       "formats": [
@@ -297,7 +297,7 @@
       ]
     },
     "qianfan": {
-      "updatedAt": "2026-09-01T09:07:28.338Z",
+      "updatedAt": "2026-10-18T17:03:48.008Z",
       "count": 238,
       "tier": "hot",
       "formats": [
@@ -306,7 +306,7 @@
       ]
     },
     "hulianwang": {
-      "updatedAt": "2026-10-13T22:14:15.304Z",
+      "updatedAt": "2026-10-18T17:04:25.721Z",
       "count": 181,
       "tier": "hot",
       "formats": [
@@ -315,7 +315,7 @@
       ]
     },
     "kuiper": {
-      "updatedAt": "2026-10-13T22:14:24.029Z",
+      "updatedAt": "2026-10-18T17:04:39.966Z",
       "count": 391,
       "tier": "hot",
       "formats": [
