@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-22T09:05:53.458Z",
+  "generatedAt": "2026-10-22T12:08:50.975Z",
   "groups": {
     "stations": {
-      "updatedAt": "2026-10-22T05:04:40.171Z",
+      "updatedAt": "2026-10-22T12:07:33.974Z",
       "count": 17,
       "tier": "warm",
       "formats": [
@@ -20,7 +20,7 @@
       ]
     },
     "geo": {
-      "updatedAt": "2026-10-22T05:05:38.186Z",
+      "updatedAt": "2026-10-22T12:08:32.534Z",
       "count": 568,
       "tier": "warm",
       "formats": [
@@ -74,7 +74,7 @@
       ]
     },
     "satnogs": {
-      "updatedAt": "2026-10-22T05:05:42.423Z",
+      "updatedAt": "2026-10-22T12:08:36.888Z",
       "count": 627,
       "tier": "warm",
       "formats": [
@@ -254,7 +254,7 @@
       ]
     },
     "fengyun-1c-debris": {
-      "updatedAt": "2026-10-22T05:05:47.819Z",
+      "updatedAt": "2026-10-22T12:08:41.447Z",
       "count": 1983,
       "tier": "warm",
       "formats": [
@@ -324,7 +324,7 @@
       ]
     },
     "last-30-days": {
-      "updatedAt": "2026-10-22T05:04:35.991Z",
+      "updatedAt": "2026-10-22T12:07:29.753Z",
       "count": 224,
       "tier": "warm",
       "formats": [
@@ -349,7 +349,7 @@
       ]
     },
     "gps-ops": {
-      "updatedAt": "2026-10-22T05:04:44.312Z",
+      "updatedAt": "2026-10-22T12:07:38.138Z",
       "count": 32,
       "tier": "warm",
       "formats": [
@@ -358,7 +358,7 @@
       ]
     },
     "glo-ops": {
-      "updatedAt": "2026-10-22T05:04:48.446Z",
+      "updatedAt": "2026-10-22T12:07:42.304Z",
       "count": 27,
       "tier": "warm",
       "formats": [
@@ -367,7 +367,7 @@
       ]
     },
     "galileo": {
-      "updatedAt": "2026-10-22T05:04:52.585Z",
+      "updatedAt": "2026-10-22T12:07:46.491Z",
       "count": 32,
       "tier": "warm",
       "formats": [
@@ -376,7 +376,7 @@
       ]
     },
     "beidou": {
-      "updatedAt": "2026-10-22T05:04:56.733Z",
+      "updatedAt": "2026-10-22T12:07:50.769Z",
       "count": 54,
       "tier": "warm",
       "formats": [
@@ -385,7 +385,7 @@
       ]
     },
     "gnss": {
-      "updatedAt": "2026-10-22T05:05:00.890Z",
+      "updatedAt": "2026-10-22T12:07:54.987Z",
       "count": 170,
       "tier": "warm",
       "formats": [
@@ -394,7 +394,7 @@
       ]
     },
     "weather": {
-      "updatedAt": "2026-10-22T05:05:05.046Z",
+      "updatedAt": "2026-10-22T12:07:59.184Z",
       "count": 72,
       "tier": "warm",
       "formats": [
@@ -403,7 +403,7 @@
       ]
     },
     "noaa": {
-      "updatedAt": "2026-10-22T05:05:09.094Z",
+      "updatedAt": "2026-10-22T12:08:03.258Z",
       "count": 0,
       "tier": "warm",
       "formats": [
@@ -412,7 +412,7 @@
       ]
     },
     "goes": {
-      "updatedAt": "2026-10-22T05:05:13.230Z",
+      "updatedAt": "2026-10-22T12:08:07.414Z",
       "count": 6,
       "tier": "warm",
       "formats": [
@@ -421,7 +421,7 @@
       ]
     },
     "iridium-NEXT": {
-      "updatedAt": "2026-10-22T05:05:17.385Z",
+      "updatedAt": "2026-10-22T12:08:11.598Z",
       "count": 80,
       "tier": "warm",
       "formats": [
@@ -430,7 +430,7 @@
       ]
     },
     "planet": {
-      "updatedAt": "2026-10-22T05:05:21.532Z",
+      "updatedAt": "2026-10-22T12:08:15.767Z",
       "count": 116,
       "tier": "warm",
       "formats": [
@@ -439,7 +439,7 @@
       ]
     },
     "spire": {
-      "updatedAt": "2026-10-22T05:05:25.679Z",
+      "updatedAt": "2026-10-22T12:08:19.947Z",
       "count": 72,
       "tier": "warm",
       "formats": [
@@ -448,7 +448,7 @@
       ]
     },
     "globalstar": {
-      "updatedAt": "2026-10-22T05:05:29.815Z",
+      "updatedAt": "2026-10-22T12:08:24.113Z",
       "count": 28,
       "tier": "warm",
       "formats": [
@@ -457,7 +457,7 @@
       ]
     },
     "orbcomm": {
-      "updatedAt": "2026-10-22T05:05:33.956Z",
+      "updatedAt": "2026-10-22T12:08:28.271Z",
       "count": 14,
       "tier": "warm",
       "formats": [
@@ -468,7 +468,7 @@
   },
   "special": {
     "gpz": {
-      "updatedAt": "2026-10-22T05:05:52.239Z",
+      "updatedAt": "2026-10-22T12:08:46.358Z",
       "count": 863,
       "tier": "warm",
       "formats": [
@@ -477,7 +477,7 @@
       ]
     },
     "gpz-plus": {
-      "updatedAt": "2026-10-22T05:05:57.114Z",
+      "updatedAt": "2026-10-22T12:08:50.975Z",
       "count": 1718,
       "tier": "warm",
       "formats": [
